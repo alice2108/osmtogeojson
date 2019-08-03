@@ -26,6 +26,9 @@ Installation:
 Usage:
 
     $ osmtogeojson file.osm > file.geojson
+    
+    或 osmtogeojson file > file.geojson 转换osm 的 XML 文件
+    
 
 Supported command line options are shown with:
 
